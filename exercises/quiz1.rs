@@ -13,11 +13,12 @@
 //
 // No hints this time ;)
 
-// I AM NOT DONE
-
 // Put your function here!
-// fn calculate_price_of_apples {
-
+//fn animal_habitat(animal: &str) -> &'static str {
+fn calculate_price_of_apples(number_of_apples: i32) -> i32 {
+    let cost : i32 = if number_of_apples > 40 { 1 } else { 2 };
+    number_of_apples * cost
+}
 // Don't modify this function!
 #[test]
 fn verify_test() {
