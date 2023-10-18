@@ -42,17 +42,21 @@ mod my_module {
                 Command::Uppercase => {
                     let result = string.to_uppercase();
                     println!("do uppercase of \"{}\" : \"{}\"",string,result);
+                    output.push(result.to_string());
                 },
                 Command::Trim => {
                     let result = string.trim();
                     println!("do trim of \"{}\" : \"{}\"",string,result);
+                    output.push(result.to_string());
                 },
                 Command::Append(count) => {
                     let result = string;
                     println!("do append {} to \"{}\" : \"{}\"",count,string,result);
+                    output.push(result.to_string());
                 },
             }
         }
+        println!("{:#?}",output);
         output
     }
 }
