@@ -50,7 +50,13 @@ mod my_module {
                     output.push(result.to_string());
                 },
                 Command::Append(count) => {
-                    let result = string;
+                    //let result : &mut String = &mut string.clone();
+                    let mut result = string.clone();
+                    let mut iterations = 0;
+                    while iterations != *count {
+                        result.push_str( "bar" );
+                        iterations += 1;
+                    }
                     println!("do append {} to \"{}\" : \"{}\"",count,string,result);
                     output.push(result.to_string());
                 },
