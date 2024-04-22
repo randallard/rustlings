@@ -1,6 +1,10 @@
+use crate::prelude::*;
 use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
+
+mod error;
+mod prelude;
 
 // other ideas 
 //      - return an error type when failing to parse to u32
@@ -25,13 +29,11 @@ fn main() {
                 .read_line(&mut guess)
                 .expect("Failed to read line");
 
-            let guess: u32 = match guess.trim().parse() {
-                    Ok(num) => num,
-                    Err(_) => {
-                        println!("Ctrl+C quits the game, or");
-                        continue
-                    },
-                };
+            let guess: u32 = guess.trim().parse().or_else(
+                || {
+                    Error::Generic(f!("Invalid entry: [{guess}]"
+                    ))
+                });
 
             println!("You guessed: {guess}");
 

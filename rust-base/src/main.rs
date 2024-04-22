@@ -1,7 +1,7 @@
 #![allow(unused)]
 
 use crate::prelude::*;
-use std::fs::read_dir;
+pub use std::fs::read_dir;
 
 mod error;
 mod prelude;
