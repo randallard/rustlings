@@ -1,0 +1,14 @@
+C:\Users\ryankhetlyr\Source\repos\rustlings\target\debug\deps\libassert_cmd-1e9888b9a62c532c.rmeta: C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\lib.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\assert.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\cargo.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\cmd.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\output.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\color.rs C:\Users\ryankhetlyr\Source\repos\rustlings\target\debug\build\assert_cmd-eb93652978e36dea\out/current_target.txt C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\../README.md
+
+C:\Users\ryankhetlyr\Source\repos\rustlings\target\debug\deps\assert_cmd-1e9888b9a62c532c.d: C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\lib.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\assert.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\cargo.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\cmd.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\output.rs C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\color.rs C:\Users\ryankhetlyr\Source\repos\rustlings\target\debug\build\assert_cmd-eb93652978e36dea\out/current_target.txt C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\../README.md
+
+C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\lib.rs:
+C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\assert.rs:
+C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\cargo.rs:
+C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\cmd.rs:
+C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\output.rs:
+C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\color.rs:
+C:\Users\ryankhetlyr\Source\repos\rustlings\target\debug\build\assert_cmd-eb93652978e36dea\out/current_target.txt:
+C:\Users\ryankhetlyr\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.14\src\../README.md:
+
+# env-dep:OUT_DIR=C:\\Users\\ryankhetlyr\\Source\\repos\\rustlings\\target\\debug\\build\\assert_cmd-eb93652978e36dea\\out
