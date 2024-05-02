@@ -1,1 +1,1 @@
-left off at https://rust-book.cs.brown.edu/ch03-05-control-flow.html#using-if-in-a-let-statement
+left off at https://rust-book.cs.brown.edu/ch03-05-control-flow.html#returning-values-from-loops
